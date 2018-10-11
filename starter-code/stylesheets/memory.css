@@ -24,6 +24,11 @@ html {
 	padding:20px;
 	font-size:64px;
 }
+
+/* .card .front {
+  height:100px;
+} */
+
 .card .front.blocked,
 .card .back.blocked {
   pointer-events: none;
